@@ -29,9 +29,7 @@ pip install -r requirements.txt
 `
 
 
-<p align="center">
 ![Mediapipe Skeleton Pose](https://github.com/noorkhokhar99/motion-heatmap-opencv/blob/main/Morgan.mp4)
-</p>
 
 
 
