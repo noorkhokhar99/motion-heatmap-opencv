@@ -27,9 +27,8 @@ pip install -r requirements.txt
 `python filename.py`
 
 `
+ <video src="Morgan.mp4"></video>
 
-
-<video src='Morgan.mp4' width=180/>
 
 
 
