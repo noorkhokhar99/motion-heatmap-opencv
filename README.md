@@ -29,7 +29,7 @@ pip install -r requirements.txt
 `
 
 
-<video src='https://github.com/noorkhokhar99/motion-heatmap-opencv/blob/main/Morgan.mp4' width=180/>
+<video src='Morgan.mp4' width=180/>
 
 
 
