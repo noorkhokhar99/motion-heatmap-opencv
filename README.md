@@ -5,11 +5,11 @@
 ### Steps to run Code
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/weapon-detection-python-opencv-withyolov5-.git
+git clone https://github.com/noorkhokhar99/motion-heatmap-opencv.git
 ```
 - Goto the cloned folder.
 ```
-cd weapon-detection-python-opencv-withyolov5-
+cd motion-heatmap-opencv
 
 ```
 - Upgrade pip with mentioned command below.
@@ -28,10 +28,9 @@ pip install -r requirements.txt
 
 `
 
-download weight: https://drive.google.com/drive/folders/1g44ApwZcTKVfoHJxxN_caI23XezYCEg-?usp=sharing
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/weapon-detection-python-opencv-withyolov5-/blob/main/weapon.png">
+<img src="">
 </p>
 
 
