@@ -26,9 +26,9 @@ pip install -r requirements.txt
  
 `python filename.py`
 
-`
-https://user-images.githubusercontent.com/34125851/220031062-29dd61ed-29b3-4f8a-b15b-b07d934f13fd.mp4
 
+<video src="https://user-images.githubusercontent.com/34125851/220031062-29dd61ed-29b3-4f8a-b15b-b07d934f13fd.mp4
+"></video>
 
 
 
